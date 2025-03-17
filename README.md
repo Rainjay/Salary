@@ -7,7 +7,7 @@
  <?php
 
         $HourlyRate = 100; 
-        $WorkDays = 27;
+        $WorkDays = 26;
         $WorkHoursPerDay = 8;
 
 </body>
