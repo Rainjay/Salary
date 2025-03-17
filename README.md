@@ -23,10 +23,10 @@
 </style>
 </head>
 <body>
- <?php
 
 <div class="container">
         <h2>Net Income</h2>
+ <?php
 
         $HourlyRate = 100; 
         $WorkDays = 26;
