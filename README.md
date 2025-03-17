@@ -2,6 +2,24 @@
 <html>
 <head>
     <title>Net Income </title>
+<style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
 </head>
 <body>
  <?php
