@@ -24,7 +24,7 @@ $FullPay = $HourlyRate * $WorkHoursPerDay * $WorkDays;
             $NetIncome = $FullPay - $Tax;
         }
 
-        // Display Output
+
         echo "Hourly Rate: $" . $HourlyRate . "<br>";
         echo "Full Pay: $" . $FullPay . "<br>";
         echo "Tax Deducted: $" . $Tax . "<br>"; 
