@@ -32,8 +32,3 @@ $FullPay = $HourlyRate * $WorkHoursPerDay * $WorkDays;
     ?>
 </body>
 </html>
-
-
-
-</body>
-</html>
