@@ -3,22 +3,22 @@
 <head>
     <title>Net Income </title>
 <style>
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+         .container {
+            background: white;
+            padding: 20px;
+            width: 300px;
+            border: 5px solid #ddd; 
+            margin: 100px auto
+  
+        }
+        p {
+            margin: 5px 0;
+        }
 </style>
 </head>
 <body>
