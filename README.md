@@ -3,7 +3,8 @@
 <head>
     <title>Net Income </title>
 <style>
-body {
+
+        body {
             font-family: Arial, sans-serif;
             margin: 20px;
             background-color: #f9f9f9;
@@ -23,6 +24,9 @@ body {
 </head>
 <body>
  <?php
+
+<div class="container">
+        <h2>Net Income</h2>
 
         $HourlyRate = 100; 
         $WorkDays = 26;
